@@ -6,7 +6,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Student form</title>
-    <style> body {text-align: center;}</style>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <style> body {text-align: center;} </style>
 </head>
 <body>
 
