@@ -89,20 +89,7 @@ public class TweetController {
         user.getTweets().remove(tweet);
         tweetRepository.delete(tweet);
         return "redirect:/tweet/add";
-//        System.out.println(user.getId());
-//      List <Tweet> listOfTweets = user.getTweets();
-//      for (int i = 0; i < listOfTweets.size(); i++) {
-//          if (listOfTweets.get(i).getId() == tweetId) {
-//              listOfTweets.remove(i);
-//          } else {
-//              return "dupa";
-//
-//          }
-//
-//      }
-//        System.out.println(tweet);
-//         //not yet
-//        return "ddaad";
+
     }
 
 
