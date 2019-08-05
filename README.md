@@ -5,7 +5,7 @@ Twitter mockup application build with following technologies:
 - Spring Boot / Security / MVC / Data
 - Hibernate ORM and Validation
 - MySQL
-- Core UI / Boostrap frontend template
+- Core UI / Bootstrap frontend template
 
 Functionality:
 
